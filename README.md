@@ -14,3 +14,4 @@ $ cargo run --bin hello_salvo
 
 ### REF
 - https://salvo.rs/book/guide.html#run-more-examples
+- https://hub.docker.com/_/rust
